@@ -1,0 +1,24 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.letters {
+  color: white;
+  padding: 10px 15px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: linear-gradient(#167FFB, #0F60C4);
+  border: 1px solid #0F60C4;
+  display: inline;
+  margin: 5px;
+  font-family: 'Futura', 'sans-serif';
+  box-shadow: 7px 4px 9px -3px rgba(0,0,0,0.19);
+}
+.play p {
+  margin-left: 45px;
+  margin-top: 35px;
+}
+.form-control {
+  padding-right: 350px;
+  margin-top: 0;
+  margin-left: 45px;
+}
